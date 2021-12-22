@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @av192
-- 👀 I’m interested in python
-- 🌱 I’m currently learning pandas library
-- 💞️ I’m looking to collaborate on data-science
-- 📫 How to reach me ....
+- 👋 Hi, I’m Apoorva Bhardwaj, an undergrad student at IIT(ISM) Dhanbad.
+- 👀 I’m interested in Machine Learning and Deep Learning.
+- 🌱 I’m currently learning Computer Vision
+- 💞️ I’m looking to collaborate on cool data-science projects
+- 📫 You can find me on Linkedin - https://www.linkedin.com/in/apoorv-bhardwaj-b30943205/ and Kaggle - https://www.kaggle.com/apoorvbhardwaj
 
 <!---
 av192/av192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
